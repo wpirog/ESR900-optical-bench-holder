@@ -1,1 +1,1 @@
-![image](podstawka_img.png)
+![image](podstawka_img.jpg)
